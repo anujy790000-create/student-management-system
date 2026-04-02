@@ -82,7 +82,6 @@ student-management-system/
 │
 ├── console_version/
 │   ├── main.py
-│   ├── student.py
 │   └── students.csv
 │
 ├── Tkinter_GUI_version/
